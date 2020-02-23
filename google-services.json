@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869427989357",
+    "firebase_url": "https://vitlug-attendance.firebaseio.com",
+    "project_id": "vitlug-attendance",
+    "storage_bucket": "vitlug-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869427989357:android:2f70316f5e930510116864",
+        "android_client_info": {
+          "package_name": "com.example.attend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869427989357-mnctiq4fc7koui507rrj144nmbfh81lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSR7P1nTfdBDzT7FxWQ3ezOQmLxsRn-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869427989357-mnctiq4fc7koui507rrj144nmbfh81lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
